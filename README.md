@@ -1,6 +1,6 @@
-# React Data Fetching: Demo Start
+# React Data Fetching: Demo 
 
-This is the starter of the React Data Fetching demo.
+
 
 ## Development
 
